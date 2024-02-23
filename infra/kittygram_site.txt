@@ -1,0 +1,5 @@
+IP: 62.84.121.217;
+name_taski: https://sampleproject.ddns.net;
+name_kittygram: https://sprintproject.sytes.net;
+login: Rxyal;
+password: 123;
